@@ -1,0 +1,32 @@
+_repo: Researches-on-curves-of-the-second-order--13-Also-on-cones-and-spherical-conics-treated-analy__17204
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hearn, George Whitehead
+    birthdate: 1812
+    deathdate: 1851
+    gutenberg_agent_id: '7219'
+    url: http://www.gutenberg.org/2009/agents/7219
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17204'
+  lccn: '43038631'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conic sections'
+- !lcc 'QA'
+title: "Researches on curves of the second order\r\nAlso on cones and spherical conics\
+  \ treated analytically, in which the tangencies of Apollonius are investigated,\
+  \ and general geometrical constructions deduced from analysis; also several of the\
+  \ geometrical conclusions of M. Chasles are analytically resolved, together with\
+  \ many properties entirely original"
+url: http://www.gutenberg.org/ebooks/17204
